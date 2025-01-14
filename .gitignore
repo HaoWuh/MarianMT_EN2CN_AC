@@ -1,4 +1,8 @@
 /.idea
+/datasets/*.csv
+/datasets/*.py
+/logs
+/trained_model/*/
 **/.vscode/
 **/.ipynb_checkpoints/
 **/.pytest_cache/
