@@ -1,1 +1,1 @@
-# MarianMT_EN2CN_AC
+# MarianMT_EN2ZH_AC

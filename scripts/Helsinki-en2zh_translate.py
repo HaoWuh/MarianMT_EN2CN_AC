@@ -1,7 +1,6 @@
 import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 import pandas as pd
-import sys
 from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 import torch
